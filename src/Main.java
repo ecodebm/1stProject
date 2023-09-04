@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String Git = "Hello, GitHub!";
+        String git = "Hello, GitHub!";
+        System.out.println(git);
     }
 }
